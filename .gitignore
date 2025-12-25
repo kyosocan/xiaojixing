@@ -37,3 +37,8 @@ gemini_output/
 # Build and cache
 .vite/
 script/.asr_temp_*/
+
+# Audio files (too large for git)
+*.mp3
+*.wav
+*.m4a
